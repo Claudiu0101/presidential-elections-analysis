@@ -1,6 +1,6 @@
 # U.S. Presidential Elections Analysis – Power BI Report
 
-This project analyzes historical U.S. presidential election data (1820–2004), exploring voting trends, party dominance and state-level results 
+This repository analyzes historical U.S. presidential election data (1820–2004), exploring voting trends, party dominance and state-level results 
 through an interactive Power BI report.  
 
 ---
@@ -30,7 +30,7 @@ Star schema design, optimized for performance and scalability.
 - **Elections** – overview of all election results by year and party
 - **Maps** – U.S. map showing which party won each state
 - **Politicians** – ranking of candidates by electoral votes
-- **A.I.** – decomposition trees analyzing votes by party, region, and state
+- **A.I.** – decomposition trees analyzing votes by party, region and state
 - **Electoral Changes** – long-term trends in electoral and popular votes over time
 
 ---
@@ -45,9 +45,7 @@ Star schema design, optimized for performance and scalability.
 
 ---
 
-## Technologies
+## Tools & Technologies
 
-- Microsoft Power BI Desktop  
-- Power Query  
-- DAX   
-- Excel
+- Microsoft Power BI Desktop   
+- Microsoft Excel
